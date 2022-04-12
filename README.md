@@ -1,2 +1,2 @@
 # PddDomainList
-A collection of pdd help url.
+A collection of pdd url.
